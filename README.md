@@ -2,15 +2,19 @@
 
 *COMPANY*: CODTECH IT SOLUTIONS PRIVATE LIMITED
 
-*NAME*: SAMRAT BERA
+*FULL NAME*: SAMRAT BERA
 
 *INTERN ID*: CITS8956
 
 *DOMAIN*: PYTHON PROGRAMMING
 
-*DURATION*: 12 WEEKS
+*NO. OF WEEKS*: 12 WEEKS
 
 *MENTOR*: NEELA SANTHOSH KUMAR
+
+*PROJECT NAME*: WEATHER APP (CLI)
+
+*PROJECT SCOPE*: The scope of this project is to develop a simple and user-friendly Weather App using Python and a Command-Line Interface (CLI). The application enables users to obtain current weather information for a selected city by entering its name. It uses the OpenWeatherMap API to retrieve weather data from an online source and displays important details such as city name, temperature in Celsius, feels-like temperature, humidity, weather conditions, and wind speed. The project includes user input validation, error handling for invalid city names, and network error management to improve reliability. It also allows users to search for multiple cities continuously until they choose to exit the application. The project focuses on applying fundamental Python concepts, including functions, loops, conditional statements, external libraries, HTTP requests, and JSON data processing. It is designed primarily for educational purposes and provides practical experience in API integration and application development. The current version is limited to displaying current weather information through the command line and requires an active internet connection and a valid API key. Future enhancements may include five-day weather forecasts, graphical user interface development, weather data visualization, location-based weather searches, and saving previous search results.
 
 *DESCRIPTION*: The Weather App (CLI) is a Python-based application developed as part of an internship task to understand the practical implementation of Python programming, API integration, and data handling. The main objective of this project is to create a simple command-line application that allows users to check the current weather conditions of any city by entering its name. The application retrieves real-time weather information from the OpenWeatherMap API and displays the results in a clear and user-friendly format.
 
